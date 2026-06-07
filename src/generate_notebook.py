@@ -62,6 +62,10 @@ def build_cells() -> list:
 | **Universitas** | Universitas Islam Indonesia |
 | **Semester** | Genap TA 2025/2026 |
 | **Dosen Penguji** | Dhomas Hatta Fudholi, ST, M.Eng, Ph.D · Taufiq Hidayat, ST, MCS, PhD |
+| **Nama** | Muhammad Dhiauddin |
+| **NIM** | 25917024 |
+| **Konsentrasi** | Sains Data - Profesional |
+| **Github** | [https://github.com/Mudhya19/fraud-detection-bpjs-jkn.git](https://github.com/Mudhya19/fraud-detection-bpjs-jkn.git) |
 
 ---
 
