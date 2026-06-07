@@ -38,3 +38,5 @@ models/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+!**/.gitkeep
