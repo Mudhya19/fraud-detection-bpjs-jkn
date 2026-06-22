@@ -40,3 +40,8 @@ ehthumbs.db
 Thumbs.db
 
 !**/.gitkeep
+
+# Hidden assignment documents
+docs/uts_bpjs_deep_learning_dokumentasi.md
+docs/analisis_mapping_bpjs.md
+docs/Laporan_UAS_Sains_Data_Praktis.md
