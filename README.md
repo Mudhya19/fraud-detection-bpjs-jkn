@@ -1,6 +1,6 @@
-# Fraud Detection BPJS JKN - Sains Data Praktis 2025
+# Fraud Detection BPJS JKN - Sains Data Praktis
 
-Proyek ini dibangun sebagai penyelesaian tugas Ujian Akhir Semester (UAS) mata kuliah **Sains Data Praktis**. Proyek ini mendemonstrasikan implementasi *Deep Learning* tingkat lanjut untuk mengidentifikasi dan mengklasifikasikan anomali / potensi tindak kecurangan (Fraud) pada data historis klaim BPJS Kesehatan.
+Proyek ini dibangun sebagai penyelesaian tugas Ujian Akhir Semester (UTS) mata kuliah **Sains Data Praktis**. Proyek ini mendemonstrasikan implementasi *Deep Learning* tingkat lanjut untuk mengidentifikasi dan mengklasifikasikan anomali / potensi tindak kecurangan (Fraud) pada data historis klaim BPJS Kesehatan.
 
 Dataset yang digunakan berasal dari dataset kompetisi **Healthkathon BPJS 2022** yang terdiri atas belasan juta baris data (mencapai lebih dari 1.5 GB).
 
